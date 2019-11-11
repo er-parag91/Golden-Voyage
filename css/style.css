@@ -820,6 +820,7 @@ span.d_name {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    flex-direction: row;
 }
 .sign_div_img {
     width: 80px;
@@ -837,12 +838,7 @@ span.d_name {
     font-size: 20px;
     line-height: 1;
 }
-.sign_div {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    margin-top: 20px;
-}
+
 
 a.see_tours {
     width: 200px;
