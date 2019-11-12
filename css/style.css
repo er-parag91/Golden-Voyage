@@ -110,7 +110,7 @@ header.header {
 .banner-img:after {
     background: -moz-radial-gradient(center, ellipse cover, rgba(0,0,0,0) 0%, rgba(19, 20, 21, 0.93) 100%);
     background: -webkit-radial-gradient(center, ellipse cover, rgba(0,0,0,0) 0%,rgba(19, 20, 21, 0.93) 100%);
-    background: radial-gradient(ellipse at center, rgba(0,0,0,0) 0%,rgba(19, 20, 21, 0.93) 100%);
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.507) 0%,rgb(0, 0, 0) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#e8000000',GradientType=1 );
     content: "";
     position: absolute;
