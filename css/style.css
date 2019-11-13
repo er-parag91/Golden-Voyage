@@ -457,7 +457,7 @@ header.header {
 }
 
 .input_div {
-    padding: 20px 60px 50px 60px;
+    padding: 30px 60px 30px 60px;
     margin: 0;
     border-radius: 0px 116px 0px 0px;
     text-align: left;
@@ -651,7 +651,7 @@ button.slick-prev.slick-arrow {
     position: absolute;
     width: 100%;
     left: 0;
-    background: linear-gradient(0deg, #151517 0%, rgba(196, 196, 196, 0) 100%);
+    background: linear-gradient(0deg, #151517db 50%, rgba(196, 196, 196, 0) 100%);
 }
 .toue_box li {
     padding:7px 0px;
