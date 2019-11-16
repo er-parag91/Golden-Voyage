@@ -77,6 +77,20 @@ a.get_touch_div, .btn {
     font-weight: 500;
 }
 a.get_touch_div:hover, .btn:hover { background: #fbef38;}
+
+a.get_touch_div_list, .btn {
+    background: #2C2D31;
+    padding: 8px 20px;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #fbef38;
+    line-height: 24px;
+    margin-left: 30px;
+    font-weight: 500;
+}
+
+a.get_touch_div_list:hover, .btn:hover { background: #ffffff; color: #2C2D31;}
+
 header.header {
     position:fixed;
     top: 0;
