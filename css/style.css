@@ -67,7 +67,7 @@ p{
     color: #fbef38;
 }
 a.get_touch_div, .btn {
-    background: #fff;
+    background: #fbef38;
     padding: 8px 20px;
     border-radius: 3px;
     font-size: 16px;
@@ -76,7 +76,7 @@ a.get_touch_div, .btn {
     margin-left: 30px;
     font-weight: 500;
 }
-a.get_touch_div:hover, .btn:hover { background: #fbef38;}
+a.get_touch_div:hover, .btn:hover { background: #fff;}
 
 a.get_touch_div_list, .btn {
     background: #2C2D31;
